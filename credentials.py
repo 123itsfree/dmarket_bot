@@ -1,1 +1,2 @@
-
+PUBLIC_KEY = "e961d9f9a4ed84c5f1bcd18076a0e2cdab5b9ebf7571e5180cd3dc974b2026c4"
+SECRET_KEY = "eHjEPavCM06ydoJOXcoeZ9oZhfWmVxBy"
